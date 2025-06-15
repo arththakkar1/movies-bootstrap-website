@@ -22,4 +22,4 @@ Just open `index.html` in your browser.
 
 ---
 
-Made with 💙 by [Your Name](https://github.com/your-username)
+Made with 💙 by [Arth Thakkar](https://github.com/arththakkar1)
